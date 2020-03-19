@@ -1,0 +1,817 @@
+body {
+	font-size: 12px;
+	background: black;
+}
+header {
+	background: #ffffff;
+	width: 100%;
+	height: 100px;
+	position: relative;
+}
+
+.menu {
+	text-align: center;
+	width: 450px;
+	height: 100px;
+	margin-left: 1120px;
+	margin-top: 0px;
+}
+.but1 {
+	display: inline-block;
+	height: 54px;
+	border: none;
+    padding-top: 32px;
+    text-decoration: none;
+    color: #000;
+	background: #ffffff;
+	width: 55px;
+	margin-top: 0px;
+	margin-top: 3px;
+	font: 12px Roboto;
+	margin-left: 24px;
+}
+.but1:hover {
+	margin-top: 0px;
+	border-top: 3px solid #FF4500; 
+}
+.kvadrat1 {
+	position: absolute;
+	margin-left: 390px;
+	margin-top: -32px;
+}
+.tM {
+	position: absolute;
+	margin-left: 414px;
+	margin-top: -13px;
+	font: 18px Poppins;
+	color: #ffffff;
+}
+.osnova {
+	height: 8200px;
+	width: 100%;
+	background: #020312;
+	color: #ffffff;
+}
+.social1 {
+	position: absolute;
+	display: inline-block;
+	height: 20px;
+	width: 280px;
+	margin-top: 316px;
+	margin-left: 400px;
+}
+.dimok1 {
+	position: absolute;
+}
+.name {
+	position: absolute;
+	font: 72px Roboto;
+	margin-top: 387px;
+	margin-left: 400px;
+}
+.prof {
+	position: absolute;
+	font: 60px Titillium Web;
+	display: inline-block;
+	border: 6px;
+	border-color: #ffffff;
+	border-style: solid;
+	padding-left: 35px;
+	padding-top: 27px;
+	padding-right: 37px;
+	padding-bottom: 27px;
+	margin-left: 400px;
+	margin-top: 540px;
+}
+.treugolnik {
+	position: absolute;
+	margin-left: 431px;
+	margin-top: 696px;
+}
+.kvadrat2 {
+	position: absolute;
+	margin-top: 1005px;
+	margin-left: 400px;
+}
+.strelochka {
+	position: absolute;
+	margin-left: 426px;
+	margin-top: 1024px;
+}
+/*--------------Сервисы---------------*/
+.Services {
+	position: absolute;
+	width: 100%;
+	height: 1041px;
+	margin-top: 1073px;
+}
+.tserv {
+	position: absolute;
+	font: 36px Roboto;
+	color: #fff;
+	margin-top: 158px;
+	margin-left: 866px;
+}
+.f1 {
+	position: absolute;
+	margin-top: 355px;
+	margin-left: 388px;
+}
+.sf1 {
+	position: absolute;
+	width: 360px;
+	height: 230px;
+	overflow: hidden;
+	margin-left: 400px;
+	margin-top: 440px;
+}
+.consf11 {
+	font: 24px Roboto;
+}
+.tsf11 {
+	font: 16px Roboto;
+	color: #9a9aa0;
+}
+
+
+
+.f2 {
+	position: absolute;
+	margin-top: 355px;
+	margin-left: 788px;
+}
+.sf2 {
+	position: absolute;
+	width: 360px;
+	height: 230px;
+	overflow: hidden;
+	margin-left: 800px;
+	margin-top: 440px;
+}
+.consf22 {
+	font: 24px Roboto;
+}
+.tsf22 {
+	font: 16px Roboto;
+	color: #9a9aa0;
+}
+
+
+
+.f3 {
+	position: absolute;
+	margin-top: 355px;
+	margin-left: 1188px;
+}
+.sf3 {
+	position: absolute;
+	width: 360px;
+	height: 230px;
+	overflow: hidden;
+	margin-left: 1200px;
+	margin-top: 440px;
+}
+.consf33 {
+	font: 24px Roboto;
+}
+.tsf33 {
+	font: 16px Roboto;
+	color: #9a9aa0;
+}
+
+
+
+.f4 {
+	position: absolute;
+	margin-top: 655px;
+	margin-left: 388px;
+}
+.sf4 {
+	position: absolute;
+	width: 360px;
+	height: 230px;
+	overflow: hidden;
+	margin-left: 400px;
+	margin-top: 740px;
+}
+.consf44 {
+	font: 24px Roboto;
+}
+.tsf44 {
+	font: 16px Roboto;
+	color: #9a9aa0;
+}
+
+
+
+.f5 {
+	position: absolute;
+	margin-top: 655px;
+	margin-left: 788px;
+}
+.sf5 {
+	position: absolute;
+	width: 360px;
+	height: 230px;
+	overflow: hidden;
+	margin-left: 800px;
+	margin-top: 740px;
+}
+.consf55 {
+	font: 24px Roboto;
+}
+.tsf55 {
+	font: 16px Roboto;
+	color: #9a9aa0;
+}
+
+
+
+.f6 {
+	position: absolute;
+	margin-top: 655px;
+	margin-left: 1188px;
+}
+.sf6 {
+	position: absolute;
+	width: 360px;
+	height: 230px;
+	overflow: hidden;
+	margin-left: 1200px;
+	margin-top: 740px;
+}
+.consf66 {
+	font: 24px Roboto;
+}
+.tsf66 {
+	font: 16px Roboto;
+	color: #9a9aa0;
+}
+/*--------------Обо мне---------------*/
+.conam {
+	position: absolute;
+	font: 36px Roboto;
+	color: #fff;
+	margin-left: 866px;
+}
+.polosa0 {
+	position: absolute;
+	height: 1px;
+	width: 1141px;
+	background: #1c1d2a;
+	margin-top: 75px;
+	margin-left: 390px;
+}
+.foto34 {
+	position: absolute;
+	margin-top: 141px;
+	margin-left: 500px;
+}
+.Hi {
+	position: absolute;
+	font: 24px Roboto;
+	display: inline-block;
+	border: 4px;
+	border-color: #ffffff;
+	border-style: solid;
+	padding-left: 27px;
+	padding-top: 20px;
+	padding-right: 37px;
+	padding-bottom: 20px;
+	margin-left: 974px;
+	margin-top: 183px;
+}
+.tr2 {
+	position: absolute;
+	margin-top: 260px;
+	margin-left: 1007px;
+}
+.About_Me {
+	position: absolute;
+	margin-top: 2047px;
+	width: 100%;
+	height: 953px;
+}
+.tam {
+	height: 173px;
+	width: 561px;
+	margin-left: 971px;
+	margin-top: 327px;
+}
+.tam1 {
+	font: 16px Roboto;
+	color: #9a9aa0;
+}
+.tcam {
+	margin-top: 53px;
+	width: 560px;
+}
+.meam0 {
+	height: 42px;
+	width: 268px;
+}
+.meam1 {
+	height: 42px;
+	width: 268px;
+	position: absolute;
+	margin-left: 287px;
+	margin-top: -42px;
+}
+.stcam {
+	font: 16px Roboto;
+	color: #FF4500;
+}
+.ecam {
+	font: 16px Roboto;
+}
+.ampolosa1 {
+	background: #1c1d2a;
+	height: 1px;
+	width: 556px;
+	margin-top: 62px;
+}
+.knop1 {
+	display: inline-block;
+	border-bottom: 1px solid #d96147;
+    text-decoration: none;
+    color: #ffffffff;
+	background: #f26c4f;
+	font: 14px Roboto;
+	text-align: center;
+	vertical-align: center;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 24px;
+	padding-bottom: 18px;
+	margin-top: 37px;
+}
+.knop2 {
+	display: inline-block;
+	border: 1px solid #353541;
+    text-decoration: none;
+    color: #ffffffff;
+	background: #020312;
+	font: 14px Roboto;
+	text-align: center;
+	vertical-align: center;
+	padding-top: 18px;
+	padding-left: 30px;
+	padding-right: 22px;
+	padding-bottom: 18px;
+	margin-left: 20px;
+}
+.ck {
+	position: absolute;
+	/*height: 163px;
+	width: 1141px;*/
+	background: #353541;
+	padding-bottom: 71px;
+	padding-top: 67px;
+	padding-left: 291px;
+	padding-right: 285px;
+	margin-left: 391px;
+	margin-top: 435px;
+}
+.tck {
+	font: 30px Roboto;
+	color: #ffffffff;
+}
+      /*--------------------Мои навыки-----------------*/
+.My_Skills {
+	position: absolute;
+	margin-top: 3442px;
+	width: 100%;
+}
+.zagl {
+	font: 36px Roboto;
+	color: #ffffffff;
+	margin-left: 891px;	
+}
+.polosa00 {
+	position: absolute;
+	height: 1px;
+	width: 1141px;
+	background: #1c1d2a;
+	margin-left: 390px;
+	margin-top: 40px;
+}
+.tms {
+	position: absolute;
+	margin-top: 113px;
+	height: 250px;
+	width: 545px;
+	margin-left: 400px;
+}
+.conms {
+	font: 24px Roboto;
+	color: #ffffffff;
+}
+.ttms {
+	font: 16px Roboto;
+	color: #484954;
+}
+.stats {
+	display: inline-block;
+	position: absolute;
+	margin-left: 600px;
+	margin-top: -183px;
+}
+.portfolio {
+	position: absolute;
+	margin-top: 4044px;
+	width: 100%;
+}
+.zaglpf {
+	font: 36px Roboto;
+	color: #ffffffff;
+	margin-left: 895px;
+}
+.gal {
+	width: 1130px;
+	height: 900px;
+	margin-left: 400px;
+	margin-top: 137px;
+}
+.y1 {
+	display: inline-block;
+
+}
+.y2 {
+	position: absolute;
+}
+.y3 {
+	position: absolute;
+	margin-left: 295px;
+}
+.y4 {
+	position: absolute;
+	margin-left: 590px;
+}
+.y5 {
+	position: absolute;
+	margin-top: 217px;
+	margin-left: -282px;
+}
+.y6 {
+	position: absolute;
+	margin-top: 342px;
+}
+.y7 {
+	position: absolute;
+	margin-top: 267px;
+	margin-left: 306px;
+}
+.y8 {
+	position: absolute;
+	margin-top: 375px;
+	margin-left: 595px;
+}
+.y10 {
+	position: absolute;
+	margin-top: 470px;
+	margin-left: 305px;
+}
+.y11 {
+	position: absolute;
+	margin-top: 741px;
+	margin-left: 597px;
+}
+.y12 {
+	position: absolute;
+	margin-top: 640px;
+	margin-left: 5px;
+}
+.y13 {
+	position: absolute;
+	margin-top: 605px;
+	margin-left: -270px;
+}
+
+.foto87 {
+	position: absolute;
+	margin-top: 5277px;
+	margin-left: 375px;
+}
+.g1 {
+	position: absolute;
+	display: inline-block;
+	font: 60px Roboto;
+	color: #f26c4f;
+	margin-top: 5700px;
+	margin-left: 487px;
+}
+.g2 {
+	position: absolute;
+	display: inline-block;
+	font: 60px Roboto;
+	color: #f26c4f;
+	margin-top: 5700px;
+	margin-left: 765px;
+}
+.g3 {
+	position: absolute;
+	display: inline-block;
+	font: 60px Roboto;
+	color: #f26c4f;
+	margin-top: 5700px;
+	margin-left: 1075px;
+}
+.g4 {
+	position: absolute;
+	display: inline-block;
+	font: 60px Roboto;
+	color: #f26c4f;
+	margin-top: 5700px;
+	margin-left: 1371px;
+}
+
+
+
+.t1 {
+	position: absolute;
+	display: inline-block;
+	font: 18px Roboto;
+	color: #fff;
+	margin-top: 5765px;
+	margin-left: 487px;
+}
+.t2 {
+	position: absolute;
+	display: inline-block;
+	font: 18px Roboto;
+	color: #fff;
+	margin-top: 5765px;
+	margin-left: 775px;
+}
+.t3 {
+	position: absolute;
+	display: inline-block;
+	font: 18px Roboto;
+	color: #fff;
+	margin-top: 5765px;
+	margin-left: 1075px;
+}
+.t4 {
+	position: absolute;
+	display: inline-block;
+	font: 18px Roboto;
+	color: #fff;
+	margin-top: 5765px;
+	margin-left: 1361px;
+}
+	 			/*----------------Testimonials----------------*/
+.Testimonials {
+	position: absolute;
+	width: 100%;
+	height: 1082px;
+	margin-top: 6200px;	
+}
+.tstm {
+	font: 36px Roboto;
+	color: #ffffffff;
+	margin-left: 855px;
+}
+.face {
+	position: absolute;
+	margin-top: 331px;
+	margin-left: -163px;
+}
+.r1 {
+	position: absolute;
+	margin-top: 148px;
+	margin-left: 937px;
+}
+.r2 {
+	position: absolute;
+	margin-top: 165px;
+	margin-left: 950px;
+}
+.ttstm {
+	font: 18px Roboto;
+	color: #71727a;
+	height: 55px;
+	width: 720px;
+	margin-left: 605px;
+	margin-top: 233px;
+}
+.control {
+	margin-top: 255px;
+	margin-left: 935px;
+}
+.name2 {
+	position: absolute;
+	margin-top: 151px;
+	margin-left: 905px;
+	text-align: center;
+}
+.JD {
+	font: 18px Roboto;
+	color: #fff;
+}
+.BC {
+	font: 16px Roboto;
+	color: #5f6069;
+}
+.postosnova {
+	position: absolute;
+	margin-top: 6863px;
+}
+.bg {
+	height: 1225px;
+	width: 1920px;
+	background: url(../img/bg.png)
+}
+.adress {
+	position: absolute;
+	margin-top: -956px;
+	margin-left: 370px;
+}
+.posl_phone {
+	position: absolute;
+	margin-top: -956px;
+	margin-left: 660px;
+}
+.posl_email {
+	position: absolute;
+	margin-top: -956px;
+	margin-left: 960px;
+}
+.fchat{
+	position: absolute;
+	margin-top: -956px;
+	margin-left: 1250px;
+}
+.zaglcon {
+	position: absolute;
+	font: 36px Roboto;
+	color: #ffffffff;
+	margin-top: -1100px;
+	margin-left: 860px;
+}
+.tadress {
+	position: absolute;
+	margin-left: 380px;
+	margin-top: -883px;
+}
+.tta0 {
+	font: 18px Roboto;
+	color: #ffffff;
+}
+.tta1 {
+	font: 16px Roboto;
+	color: #888990;
+}
+.tphone {
+	position: absolute;
+	margin-left: 670px;
+	margin-top: -883px;
+}
+.temail {
+	position: absolute;
+	margin-left: 970px;
+	margin-top: -883px;
+}
+.tfchat {
+	position: absolute;
+	margin-left: 1260px;
+	margin-top: -883px;
+}
+.LC {
+	position: absolute;
+	font: 30px Roboto;
+	color: #ffffff;
+	margin-top: -673px;
+	margin-left: 381px;
+}
+.last_social {
+	position: absolute;
+	height: 343px;
+	width: 171px;
+}
+.tls {
+	position: absolute;
+	margin-left: 460px;
+	margin-top: -555px
+}
+.tls0 {
+	display: block;
+	font: 16pt Roboto;
+	color: #ffffffff;
+	margin-top: 45px;
+}
+.ils {
+	margin-left: 404px;
+	margin-top: -565px
+}
+.ils0 {
+	display: block;
+	margin-top: 50px;
+}
+.SMaM {
+	position: absolute;
+	font: 30px Roboto;
+	margin-left: 780px;
+	margin-top: -673px;
+}
+.form0 {
+	position: absolute;
+	font: 16px Roboto;
+	color: #ffffffff;
+	margin-left: 782px;
+	margin-top: -577px;
+}
+.form1 {
+	position: absolute;
+	font: 16px Roboto;
+	color: #ffffffff;
+	margin-left: 1170px;
+	margin-top: -577px;
+}
+.form2 {
+	position: absolute;
+	font: 16px Roboto;
+	color: #ffffffff;
+	margin-left: 782px;
+	margin-top: -493px;
+}
+.form3 {
+	position: absolute;
+	font: 16px Roboto;
+	color: #ffffffff;
+	margin-left: 782px;
+	margin-top: -395px;
+}
+.iname {
+	position: absolute;
+	height: 43px;
+	width: 360px;
+	background: #2d2e39;
+	border: none;
+	font: 16pt Titillium Web;
+	margin-left: 782px;
+	margin-top: -555px;
+}
+.iemail {
+	position: absolute;
+	height: 43px;
+	width: 360px;
+	background: #2d2e39;
+	border: none;
+	font: 16pt Titillium Web;
+	margin-left: 1170px;
+	margin-top: -555px;
+}
+.isubject {
+	position: absolute;
+	height: 43px;
+	width: 750px;
+	background: #2d2e39;
+	border: none;
+	font: 16pt Titillium Web;
+	margin-left: 782px;
+	margin-top: -464px;
+}
+.imessage {
+	position: absolute;
+	height: 173px;
+	width: 750px;
+	background: #2d2e39;
+	border: none;
+	font: 16pt Titillium Web;
+	vertical-align: top;
+	margin-left: 782px;
+	margin-top: -367px;
+}
+.End {
+	position: absolute;
+	background: #ffffff;
+	width: 1920px;
+	height: 112px;
+}
+.end_text {
+	color: #7f7f7f;
+	position: absolute;
+	font: 16px Roboto;
+	margin-top: 40px;
+	margin-left: 391px;
+}
+.arrow_up {
+	position: absolute;
+	margin-top: -37px;
+	margin-left: 1465px;
+}
+.htc {
+	position: absolute;
+	display: inline-block;
+	border: none;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right:  27px;
+    padding-bottom: 20px;
+    text-decoration: none;
+    color: #ffffffff;
+	background: #f26c4f;
+	font: 14pt Roboto;
+	margin-left: 1344px;
+	margin-top: -180px;
+}
